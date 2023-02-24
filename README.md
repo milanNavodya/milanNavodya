@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @milanNavodya
-- 👀 I’m interested in JAVA, Python and Hacking
+- 👀 I’m interested in JAVA, Python and Linux
 - 🌱 I’m currently learning Python
 
 <!---
